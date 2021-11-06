@@ -1,0 +1,32 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif,Oswald;
+}
+div {
+  background-color: rgba(147, 240, 240, 0.3);
+  padding: 10px;
+
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+p {
+  font-size: 40px;
+  margin: 10px;
+}
+#dv {
+  background-color: white;
+}
+
+.hr {
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
+  color: rgb(153, 226, 202);
+  text-align: center;
+}
+li {
+  font-size: 25px;
+}

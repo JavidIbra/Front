@@ -1,0 +1,69 @@
+p {
+  margin-left: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Oswald;
+}
+input {
+  width: 70px;
+  border: 1px solid rgb(36, 121, 177);
+  border-radius: 2px;
+  padding: 1px 5px;
+  margin: 4px 20px;
+  box-sizing: border-box;
+}
+
+input[name="input"] {
+  width: 120px;
+  padding: 1px 5px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border: 1px solid rgb(36, 121, 177);
+  border-radius: 2px;
+  box-sizing: border-box;
+}
+
+input[type="text"]:focus {
+  border: 2px solid #555;
+}
+input[type="text"] {
+  margin-left: 30px;
+}
+
+#frm {
+  margin-left: 20px;
+}
+
+#frm button {
+  display: block;
+  margin: 12px 0px 0px 0px;
+  width: 140px;
+  height: 25px;
+}
+#frm label {
+}
+a {
+  margin-top: 5px;
+  font-size: 13px;
+}
+#form {
+  margin-left: 20px;
+}
+input[name="in"] {
+  width: 200px;
+  padding: 1px 5px;
+  margin: 4px 20px;
+  border: 1px solid rgb(36, 121, 177);
+  border-radius: 2px;
+  box-sizing: border-box;
+}
+#last {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.dv {
+  display: inline-block;
+  margin-left: 50px;
+}
+.fcol {
+  color: darkgray !important;
+  font-size: 17px;
+}

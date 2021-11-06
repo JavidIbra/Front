@@ -1,0 +1,32 @@
+body > h1 {
+  font-size: 50px;
+  margin-left: 540px;
+}
+
+body > h1:hover {
+  color: aquamarine;
+  text-shadow: 2px 2px 4px #ca5959;
+  margin-left: 540px;
+}
+
+p {
+  margin-left: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Oswald;
+}
+
+.l {
+  margin: 20px 0px 25px 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Oswald;
+}
+
+.l li {
+  list-style-type: square;
+}
+
+#img-jack {
+  display: block;
+  float: center;
+  width: 300px;
+  height: 400px;
+  margin-left: 480px;
+}
